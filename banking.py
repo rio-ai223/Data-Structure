@@ -1,10 +1,10 @@
 from linked_list import LinkedList 
 from customer import Customer 
 from bank_loan_application import BankLoanApplication 
-from loan_transaction import LoanTransaction
-from loan_payment_accountpy import LoanPaymentAccountpy
+from loan_transaction import Loan_Transaction
+from loan_payment_accountpy import Loan_Payment_Accountpy
 from loan_account import LoanAccount
-from savings_account import SavingsAccount
+from savings_account import Savings_Account
 
 def Main_Menu():
  print("Main Menu", end="\n\n")
